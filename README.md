@@ -1,2 +1,2 @@
 # Git-CheckoutLab
-lab 
+"Git Checkout repository"
