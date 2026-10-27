@@ -1,2 +1,2 @@
-# Git-CheckoutLab
-"Git Checkout repository"
+# ParallerLab
+"Parallerlab"
